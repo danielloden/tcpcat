@@ -1,3 +1,3 @@
 # tcpcat
-Written in rust using only standard library
-poor mans version of netcat
+Written in rust using only standard library.<br />
+poor mans version of netcat.
